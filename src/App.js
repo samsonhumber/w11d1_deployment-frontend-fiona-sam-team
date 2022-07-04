@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World! We are Fiona and Sam!
+          Hello World! We are Fiona and Sam! And we are having trouble with env variables.
         </a>
       </header>
     </div>
