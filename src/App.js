@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and {process.env.REACT_APP_WELCOME}
+          Edit <code>src/App.js</code> and {process.env.REACT_APP_WELCOME} {process.env.REACT_APP_SUBTITLE}
         </p>
         <a
           className="App-link"
