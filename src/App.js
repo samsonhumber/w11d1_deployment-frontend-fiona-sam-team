@@ -27,7 +27,7 @@ function App() {
       <label>Message: <textarea name="message"></textarea></label>
     </p>
     <p>
-      <button type="submit">Send</button>
+      <input type="submit" value="Submit form"></input>
     </p>
 </form>
       </header>
