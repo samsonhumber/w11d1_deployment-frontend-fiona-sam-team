@@ -8,6 +8,7 @@ export default function NetlifyForm() {
     <p>
     <label>Your Email: <input type="email" name="email" /></label>
     </p>
+    <input type="submit" value="Submit form"></input>
     </form>) 
 }
 
