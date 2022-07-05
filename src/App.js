@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import NetlifyForm from './netlifyForm';
+import NetlifyForm from './netlifyForm/index.js';
 
 function App() {
   return (
